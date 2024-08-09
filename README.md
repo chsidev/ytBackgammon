@@ -151,3 +151,4 @@ Image file save destination: `` ~ / env1 / ytBackgammon / static / `` directly u
 
 * [Easy with just CSS! How to make a hamburger menu] (https://saruwakakun.com/html-css/reference/nav-drawer)# Change 0 on 2024-06-15
 # Change 1 on 2024-07-17
+# Change 1 on 2024-08-09
